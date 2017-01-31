@@ -41,7 +41,7 @@ Create a virtualenv and clone and install::
  cd src
  pip install -e .
 
-Then::
+Check the config file (mutatis mutandis) and then::
 
  elasticluster start slurm
 
