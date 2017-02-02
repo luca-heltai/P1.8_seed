@@ -10,7 +10,7 @@ In this exercise we will use mainly the for b2X nodes on Cosilt cluster  in an i
 Steps:
 
 - guided tutorial: configure/play with basic docker commands 
-- exercise 1: measure overhead of docker container on HPL benchmark 
+- tutorial 1: measure overhead of docker container on HPL benchmark 
 - exercise 2: create your own docker container for scientific application and play with them 
 
 Part 1: configure with basic docker commands 
@@ -18,10 +18,10 @@ ______________________________________________
 
 Here goes Stefano's notes 
 
-exercise 1: measure overhead of docker container on HPL benchmark
+Tutorial 1: measure overhead of docker container on HPL benchmark
 __________________________________________________________________
 
-Stefano's notes 
+see tutorial1 directory and readme.rst file  
 
 
 exercise 2: create your own docker container for scientific application and play with them
